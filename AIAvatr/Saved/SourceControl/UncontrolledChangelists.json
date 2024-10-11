@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ORANGE ACADEMY/Documents/Unreal Projects/AIAvatr/Content/VRTemplate/Maps/AIAvatr_BuiltData.uasset",
+				"C:/Users/ORANGE ACADEMY/Documents/Unreal Projects/AIAvatr/Content/VRTemplate/Maps/AIAvatr.umap",
+				"C:/Users/ORANGE ACADEMY/Documents/Unreal Projects/AIAvatr/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/ORANGE ACADEMY/Documents/Unreal Projects/AIAvatr/Content/VRTemplate/Input/Actions/IA_Talk.uasset",
+				"C:/Users/ORANGE ACADEMY/Documents/Unreal Projects/AIAvatr/Content/VRTemplate/Input/IMC_Hands.uasset",
+				"C:/Users/ORANGE ACADEMY/Documents/Unreal Projects/AIAvatr/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/ORANGE ACADEMY/Documents/Unreal Projects/AIAvatr/Content/AIAvatr.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/Marketplace/Convai/Content/Core/ConvaiBaseCharacter.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/Marketplace/Convai/Content/Core/ConvaiBasePlayer.uasset",
+				"C:/Users/ORANGE ACADEMY/Documents/Unreal Projects/AIAvatr/Content/gh.umap",
+				"C:/Users/ORANGE ACADEMY/Documents/Unreal Projects/AIAvatr/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset"
+			]
+		}
+	]
+}
